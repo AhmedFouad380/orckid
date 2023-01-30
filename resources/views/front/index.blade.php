@@ -231,8 +231,8 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-8" style="    float: left;">
-                <p>Copyright &copy; 2023.Orchid Wedding All rights reserved.</p>
+            <div class="col-md-8" >
+                <p  style="    float: left;">Copyright &copy; 2023.Orchid Wedding All rights reserved.</p>
             </div>
             <div class="col-md-4">
                 <ul class="social-icons">
