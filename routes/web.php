@@ -26,7 +26,7 @@ Route::get('/', function () {
 });
 Route::group(['middleware' => ['admin']], function () {
     Route::get('/Dashboard', function () {
-        return view('Admin.index');
+        return view('admin.index');
     });
 
     Route::get('Admin_setting', [\App\Http\Controllers\Admin\AdminController::class, 'index']);
