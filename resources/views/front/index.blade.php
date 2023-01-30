@@ -83,7 +83,7 @@
             <img class="d-block w-100" src="{{$Slider->image}}"  style="max-height: 650px!important;" alt="{{$Slider->title}}">
             <div class="header-info" @if(Session('lang') == 'ar') style="position: absolute; color:#FFF;top: 50%;right: 25%"   @else style="position: absolute; color:#FFF;top: 50%;left: 25%" @endif>
                 <h1>{{$Slider->title}}</h1>
-                <p style=" color:#FFF;">{{$Slider->decsription}}
+                <p style=" color:#FFF;">{{$Slider->description}}
 
                 </p>
                 <a href="#contact" class="btn btn-primary">{{__('lang.Get in Touch')}}</a>
