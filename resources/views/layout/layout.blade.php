@@ -64,22 +64,6 @@ License: For each use you must have a valid license purchased only from above li
                         <!--begin::Nav-->
                         <ul class="nav flex-column">
                             <!--begin::Nav item-->
-                            <li class="nav-item mb-2" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="right" data-bs-dismiss="click" title="Projects">
-                                <!--begin::Nav link-->
-                                <a class="nav-link btn btn-icon btn-active-color-primary btn-color-gray-400 btn-active-light" data-bs-toggle="tab" href="#kt_aside_nav_tab_projects">
-                                    <!--begin::Svg Icon | path: icons/duotune/general/gen025.svg-->
-                                    <span class="svg-icon svg-icon-2x">
-												<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-													<rect x="2" y="2" width="9" height="9" rx="2" fill="black" />
-													<rect opacity="0.3" x="13" y="2" width="9" height="9" rx="2" fill="black" />
-													<rect opacity="0.3" x="13" y="13" width="9" height="9" rx="2" fill="black" />
-													<rect opacity="0.3" x="2" y="13" width="9" height="9" rx="2" fill="black" />
-												</svg>
-											</span>
-                                    <!--end::Svg Icon-->
-                                </a>
-                                <!--end::Nav link-->
-                            </li>
                             <!--end::Nav item-->
                             <!--begin::Nav item-->
                             <li class="nav-item mb-2" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="right" data-bs-dismiss="click" title="Menu">
